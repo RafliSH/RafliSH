@@ -1,5 +1,6 @@
+![MasterHead](./github-header-image.png)
 <h1 align="center">Greeting 👋, I'm Rafli Sultan Hakim</h1>
-<h3 align="center">A Beginner UI/UX Designer and Front-End Developer</h3>
+<h3 align="center">A Beginner UI/UX Designer and Front-End Developer</h3
 
 - 🌱 I’m currently learning **Bootstrap and Tailwind**
 
